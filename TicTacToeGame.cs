@@ -26,11 +26,25 @@ namespace TicTacToe
             {
                 Console.WriteLine("Assign o to the computer  " + Input);
             }
-            Console.ReadLine();
+            
 
+          
+        }
+        public static  showBoard()
+        {
+
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("_______|_________|_______   ");
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("_______|_________|_______   ");
+            Console.WriteLine("       |         |          ");
+            Console.WriteLine("       |         |          ");
 
         }
-
+       
 
 
 

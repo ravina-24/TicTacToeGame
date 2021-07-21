@@ -8,7 +8,8 @@ namespace TicTacToe
         {
             Console.WriteLine("Welcome to Tic Tac Toe game !");
            // TicTacToeGame.CreateBoard();
-            TicTacToeGame.AllowThePlayer();
+           // TicTacToeGame.AllowThePlayer();
+            TicTacToeGame.showBoard();
             Console.ReadLine();
 
         }
