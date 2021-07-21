@@ -9,7 +9,7 @@ namespace TicTacToe
 
         public static void CreateBoard()
         {
-            char[] Board = new char  [10];
+      
             char[] Board = { ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ' };
         }
 
